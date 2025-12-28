@@ -80,7 +80,7 @@
 
 
 					<!-- CALL BUTTON -->
-				    <div class="callusbtn"><a href="tel:123456789"><i class="fas fa-phone"></i></a></div>
+				    <div class="callusbtn"><a href="tel:2615267803"><i class="fas fa-phone"></i></a></div>
 
 					
 					<!-- LOGO IMAGE -->
@@ -105,7 +105,7 @@
 	                    	<li><a href="{{route('home')}}">Nuestro Menú</a></li>
 
 	                        <!-- HEADER BUTTON  -->
-	                        <li class="nav-btn yellow-color"><a href="tel:5492615267803">2615-267803</a></li>
+	                        <li class="nav-btn yellow-color"><a href="tel:2615267803">2615-267803</a></li>
 
 
 	                    </ul>
@@ -768,7 +768,7 @@
 								<p>Las Heras, Mendoza</p>
 
 								<!-- Contacts -->
-								<p><span class="yellow-color"><a href="tel:5492615267803">2615-267803</a></span></p>
+								<p><span class="yellow-color"><a href="tel:2615267803">2615-267803</a></span></p>
 
 							</div>
 						</div>
