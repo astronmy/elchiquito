@@ -164,7 +164,7 @@
 
                                     <li class="tab-link" data-tab="tab-2">
 										<span class="flaticon-ribs"></span> 
-										<h5 class="h5-sm">Carnes a la Parilla</h5>
+										<h5 class="h5-sm">Carnes</h5>
 									</li>
 
 									<!-- TAB-2 LINK -->
