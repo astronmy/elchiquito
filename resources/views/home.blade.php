@@ -85,7 +85,7 @@
 					
 					<!-- LOGO IMAGE -->
 	                <div class="logo" data-mobile-logo="images/logo.jpg" data-sticky-logo="images/logo.jpg">
-	                	<a href="demo-1.html"><img src="images/logo.jpg" alt="header-logo"/></a>
+	                	<a href="{{route('home')}}"><img src="images/logo.jpg" alt="header-logo"/></a>
 					</div>
 
 					
