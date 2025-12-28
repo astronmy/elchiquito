@@ -6,9 +6,7 @@
 <!--[if (gte IE 9)|!(IE)]><!-->
 <html lang="en">
 
-
 	<head>
-
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="author" content="Jthemes"/>	
@@ -227,7 +225,6 @@
 
 											<!-- Description -->
 											<p class="grey-color">Vacio, lechuga y tomate</p>
-
 											
 
 										</div>
@@ -261,8 +258,6 @@
 
 											<!-- Description -->
 											<p class="grey-color">Bondiola de cerdo, lechuga y tomate</p>
-
-											
 
 										</div>
 
