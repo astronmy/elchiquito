@@ -166,7 +166,7 @@
 
                                     <li class="tab-link" data-tab="tab-2">
 										<span class="flaticon-ribs"></span> 
-										<h5 class="h5-sm">Parrilla</h5>
+										<h5 class="h5-sm">Carnes a la Parilla</h5>
 									</li>
 
 									<!-- TAB-2 LINK -->
@@ -215,35 +215,18 @@
 
 											<!-- Price -->
 											<div class="menu-7-price bg-coffee">
-												<h5 class="h5-xs yellow-color">$8.95</h5>
+												<h5 class="h5-xs yellow-color">$15.000</h5>
 											</div>
-
-											<!-- Rating -->
-											<div class="item-rating">
-												<div class="stars-rating stars-lg">
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star-half-alt"></i>
-												</div>		
-											</div>	
-
-											<!-- Like Icon -->
-											<div class="like-ico ico-20">
-												<a href="#"><span class="flaticon-heart"></span></a>
-											</div>
-
 										</div>
 
 										<!-- TEXT -->
 										<div class="menu-7-txt rel">
 
 											<!-- Title -->
-											<h5 class="h5-sm">Crispy Chicken</h5>
+											<h5 class="h5-sm">Sandwich de VACIO</h5>
 
 											<!-- Description -->
-											<p class="grey-color">Fried chicken breast, chilli sauce, tomatoes, pickles, coleslaw</p>
+											<p class="grey-color">Vacio, lechuga y tomate</p>
 
 											
 
@@ -265,23 +248,7 @@
 
 											<!-- Price -->
 											<div class="menu-7-price bg-coffee">
-												<h5 class="h5-xs yellow-color">$9.99</h5>
-											</div>
-
-											<!-- Rating -->
-											<div class="item-rating">
-												<div class="stars-rating stars-lg">
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="far fa-star"></i>
-												</div>		
-											</div>	
-
-											<!-- Like Icon -->
-											<div class="like-ico ico-20">
-												<a href="#"><span class="flaticon-heart"></span></a>
+												<h5 class="h5-xs yellow-color">$15.000</h5>
 											</div>
 
 										</div>
@@ -290,10 +257,10 @@
 										<div class="menu-7-txt rel">
 
 											<!-- Title -->
-											<h5 class="h5-sm">Ultimate Bacon</h5>
+											<h5 class="h5-sm">Sandwich de BONDIOLA</h5>
 
 											<!-- Description -->
-											<p class="grey-color">House beef patty, cheddar cheese, bacon, onion, mustard</p>
+											<p class="grey-color">Bondiola de cerdo, lechuga y tomate</p>
 
 											
 
@@ -324,23 +291,7 @@
 
 											<!-- Price -->
 											<div class="menu-7-price bg-coffee">
-												<h5 class="h5-xs yellow-color">$3.85</h5>
-											</div>
-
-											<!-- Rating -->
-											<div class="item-rating">
-												<div class="stars-rating stars-lg">
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star-half-alt"></i>
-												</div>		
-											</div>	
-
-											<!-- Like Icon -->
-											<div class="like-ico ico-20">
-												<a href="#"><span class="flaticon-heart"></span></a>
+												<h5 class="h5-xs yellow-color">$28.000</h5>
 											</div>
 
 										</div>
@@ -349,10 +300,10 @@
 										<div class="menu-7-txt rel">
 
 											<!-- Title -->
-											<h5 class="h5-sm">Onion Rings</h5>
+											<h5 class="h5-sm">Para llevar</h5>
 
 											<!-- Description -->
-											<p class="grey-color">Integer ultrice an aligula lectus purus magna and tempor</p>
+											<p class="grey-color">Selecciona los cortes, pesalo y llevalo</p>
 
 											
 
@@ -377,32 +328,16 @@
 												<h5 class="h5-xs yellow-color">$3.69</h5>
 											</div>
 
-											<!-- Rating -->
-											<div class="item-rating">
-												<div class="stars-rating stars-lg">
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="far fa-star"></i>
-												</div>		
-											</div>	
-
-											<!-- Like Icon -->
-											<div class="like-ico ico-20">
-												<a href="#"><span class="flaticon-heart"></span></a>
-											</div>
-
 										</div>
 
 										<!-- TEXT -->
 										<div class="menu-7-txt rel">
 
 											<!-- Title -->
-											<h5 class="h5-sm">French Fries</h5>
+											<h5 class="h5-sm">En el Local</h5>
 
 											<!-- Description -->
-											<p class="grey-color">Integer ultrice an aligula lectus purus magna and tempor</p>
+											<p class="grey-color">Seleccionamos tus cortes, pesamos y vivis la experiencia en el local </p>
 
 											
 
@@ -433,23 +368,7 @@
 
 											<!-- Price -->
 											<div class="menu-7-price bg-coffee">
-												<h5 class="h5-xs yellow-color">$7.99</h5>
-											</div>
-
-											<!-- Rating -->
-											<div class="item-rating">
-												<div class="stars-rating stars-lg">
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="far fa-star"></i>
-												</div>		
-											</div>	
-
-											<!-- Like Icon -->
-											<div class="like-ico ico-20">
-												<a href="#"><span class="flaticon-heart"></span></a>
+												<h5 class="h5-xs yellow-color">$7.000</h5>
 											</div>
 
 										</div>
@@ -458,10 +377,10 @@
 										<div class="menu-7-txt rel">
 
 											<!-- Title -->
-											<h5 class="h5-sm">Greek Salad</h5>
+											<h5 class="h5-sm">Fritas CHICAS</h5>
 
 											<!-- Description -->
-											<p class="grey-color">Tomatoes, cucumbers, olives, feta cheese, red onion, olive oil</p>
+											<p class="grey-color">Condimentadas con sal y especias</p>
 
 											
 
@@ -483,23 +402,7 @@
 
 											<!-- Price -->
 											<div class="menu-7-price bg-coffee">
-												<h5 class="h5-xs yellow-color">$9.30</h5>
-											</div>
-
-											<!-- Rating -->
-											<div class="item-rating">
-												<div class="stars-rating stars-lg">
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="fas fa-star"></i>
-													<i class="far fa-star"></i>
-												</div>		
-											</div>	
-
-											<!-- Like Icon -->
-											<div class="like-ico ico-20">
-												<a href="#"><span class="flaticon-heart"></span></a>
+												<h5 class="h5-xs yellow-color">$9.000</h5>
 											</div>
 
 										</div>
@@ -508,10 +411,10 @@
 										<div class="menu-7-txt rel">
 
 											<!-- Title -->
-											<h5 class="h5-sm">Chicken Salad</h5>
+											<h5 class="h5-sm">Fritas GRANDES</h5>
 
 											<!-- Description -->
-											<p class="grey-color">Chicken breast, chilli sauce, lime juice, lettuce leaves, cucumber</p>
+											<p class="grey-color">Condimentadas con sal y especias</p>
 
 											
 
